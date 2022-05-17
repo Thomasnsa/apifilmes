@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BYDoKUKlFtgV+HLZhe7WWz9iKK3N1vU6IjbY7L5m+OSeADcGB78eVHM8ce5MPbuzH6Rr6RoTNr7lsxEwfRA0Jg==",
+  "dgSpecHash": "LBkqpdnBBHT94UKYnsck7bf1OvIvQljgdxKptaWl9aOM+/c/pOannsZff/cBNZjCVkPHfTj6BdBj1nEOC29T3Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Thomas\\source\\repos\\API\\FilmeAPI\\apifilmes\\apifilmes.csproj",
+  "projectFilePath": "C:\\Users\\Thomas\\source\\repos\\API\\FilmeAPI\\apifilmes\\apifilmes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thomas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Thomas\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
